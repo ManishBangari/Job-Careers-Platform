@@ -9,6 +9,7 @@ packages = [{include = "repl_nix_job_careers_platform"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 flask = "^3.0.3"
+jsonify = "^0.5"
 
 
 [build-system]
